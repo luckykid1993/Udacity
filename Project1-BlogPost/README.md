@@ -50,4 +50,4 @@ StackOverflowData.ipynb:  The notebook that i used to find the anwser for the qu
 ## Licensing, Authors, Acknowledgements
 
 Must give credit to Stackoverflow for the data. 
-You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey/2017.)
+You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey/2017)
