@@ -42,6 +42,7 @@ I used data from Stackoverflow’s 2017 Annual Developer Survey, to find answer 
 
 3. Rust was the most loved programming language in 2017
 
+Blog post: https://luckykid1993.github.io/2022/05/16/Which-were-the-most-popular-programming-languages-in-2017.html
 
 ## File Descriptions
 StackOverflowData.ipynb:  The notebook that i used to find the anwser for the quesstions
