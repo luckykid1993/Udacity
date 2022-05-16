@@ -26,19 +26,19 @@ I used data from Stackoverflow’s 2017 Annual Developer Survey, to find answer 
 ## Results
 1. Most popular programming languages in 2017:
 
-JavaScript (62%),
+> JavaScript (62%),
 
-SQL (51%)
+> SQL (51%)
 
-Java (39%)
+> Java (39%)
 
 2. Programming languages were the most people interested to work with over the next year:
 
-JavaScript (48%)
+> JavaScript (48%)
 
-Python (37%)
+> Python (37%)
 
-SQL (33%)
+> SQL (33%)
 
 3. Rust was the most loved programming language in 2017
 
