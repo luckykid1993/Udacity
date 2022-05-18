@@ -115,8 +115,9 @@ The address of web app should be something like: http://0.0.0.0:3000/
 
 ## Results <a name="Results"></a>
 Plot demo:
-![alt text](https://github.com/luckykid1993/Udacity/blob/main/Project2-DisasterResponsePipline/img/pic1.PNG)
+![alt text](https://github.com/luckykid1993/Udacity/blob/main/DisasterResponsePipelines/img/pic1.PNG)
 
 Classification Demo:
-![alt text](https://github.com/luckykid1993/Udacity/blob/main/Project2-DisasterResponsePipline/img/pic2.PNG)
-![alt text](https://github.com/luckykid1993/Udacity/blob/main/Project2-DisasterResponsePipline/img/pic3.PNG)
+![alt text](https://github.com/luckykid1993/Udacity/blob/main/DisasterResponsePipelines/img/pic2.PNG)
+
+![alt text](https://github.com/luckykid1993/Udacity/blob/main/DisasterResponsePipelines/img/pic3.PNG)
