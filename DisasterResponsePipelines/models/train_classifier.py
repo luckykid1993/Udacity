@@ -126,7 +126,7 @@ def evaluate_model(model, X_test, Y_test, category_names):
     # because in this case (disaster) False Negative is extremely important 
     # eg: Someone actually needed help, but we predict false
     # so, F1-score is a better metric to evaluate model
-    # comment  line 117 and uncomment these lines below to output F1-score only
+    # comment  line 123-124 and uncomment these lines below to output F1-score only
     #print('\n\n==============================================================')
     #for i in range(Y_test.shape[1]):
     #    print('F1-score of %35s: %.2f' %(category_names[i], f1_score(Y_test.iloc[:, i].values, y_pred[:,i])))
