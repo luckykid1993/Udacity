@@ -59,4 +59,4 @@ The second and third most important criteria that influence a customer's likelih
 > We can build a model that predicts whether or not someone will respond to an offer. 
 The accuracy is greater than 60% for all three models, in terms of business, I think that it is a good accuracy rate, and it is acceptable in this project.
 
-Blog post: 
+Blog post: https://luckykid1993.github.io/2022/05/28/Should-we-share-our-demographic-data-with-Starbucks.html
